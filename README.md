@@ -46,7 +46,7 @@ Directly from the experimental section of the report (page 3) :contentReference[
 | **Baseline BERT** | 111M | 100% | **54.21%** |
 | **LoRA-BERT** | 2.01M | 1.81% | **65.50%** |
 
-###Key insight
+## Key insight
 LoRA outperformed full fine-tuning by **+11.29% accuracy** while using **98% fewer trainable parameters**.
 
 This shows that:
