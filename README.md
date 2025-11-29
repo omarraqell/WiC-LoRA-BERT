@@ -1,5 +1,4 @@
 # WiC-LoRA-BERT
-# WiC–LoRA–BERT
 
 ## What is the WiC Task?
 
