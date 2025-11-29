@@ -18,7 +18,7 @@ Dataset link:
 
 ---
 
-## 🧠 Project Overview
+## Project Overview
 
 This project fine-tunes **BERT (bert-base-uncased)** on the WiC dataset using two approaches:
 
