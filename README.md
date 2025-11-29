@@ -37,7 +37,7 @@ This project fine-tunes **BERT (bert-base-uncased)** on the WiC dataset using tw
 
 ---
 
-##Results
+## Results
 
 Directly from the experimental section of the report (page 3) :contentReference[oaicite:0]{index=0}:
 
